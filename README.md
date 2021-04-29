@@ -1,1 +1,1 @@
-# iwsn-search-go
+# IWSN Search Client Libraries for Go
